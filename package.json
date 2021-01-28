@@ -1,0 +1,19 @@
+{
+  "name": "beatles",
+  "version": "1.0.0",
+  "description": "Мое приложение",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKUIK2020/js-adelya2020.git"
+  },
+  "author": "adelya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TKUIK2020/js-adelya2020/issues"
+  },
+  "homepage": "https://github.com/TKUIK2020/js-adelya2020#readme"
+}
